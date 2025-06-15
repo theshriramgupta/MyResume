@@ -38,7 +38,7 @@ _Updated on: `June 15, 2025`_
 ## 🚀 Featured Projects
 
 - [🔗 Next Word Predictor](https://github.com/theshriramgupta/Next-Word-Predictor)
-- [🔗 AI Chatbot (Llama + )](https://github.com/theshriramgupta/AI_Chatbot)
+- [🔗 AI Chatbot (Llama)](https://github.com/theshriramgupta/AI_Chatbot)
 - [🔗 Hill & Valley Classifier](https://github.com/theshriramgupta/Artificial_Intelliigence_YBI/blob/main/Hill_and_Valley_Prediction.ipynb)
 - [🔗 Cric Insight (Web App)](https://github.com/theshriramgupta/cric_insight) – Final Year Project
 
